@@ -1,4 +1,4 @@
-## Hi there, 
+### Hi there, 
 
 ### I am Paramjit Singh Baweja, a robotics nerd.
 
