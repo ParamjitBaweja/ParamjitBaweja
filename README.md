@@ -5,11 +5,11 @@
 <img align="right" width="330px" alt="GIF" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
 
 
-- Interests: Science, tech, DIY. 
-- I have an unrealistic dream to become a full-stack roboticist. 
+- Interests: Science, Tech, DIY. 
+- I have an unrealistic dream to become a full-stack roboticist.😌
 - Biomedical robotics. Path planning & controls for autonomous systems.
-- Hungry for collaborations on anything under the sun (ML & AI preferred).
-- I'll get back to this line, later. :D 
+- Hungry for collaborations on anything under the sun. (ML & AI preferred)
+- I'll get back to this line, later.😬
 
 
 
