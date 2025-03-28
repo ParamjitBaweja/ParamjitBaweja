@@ -7,7 +7,7 @@
 
 - Interests: Science, Tech, DIY. 
 - I have an unrealistic dream to become a full-stack roboticist building end-to-end robotic systems.😌
-- Biomedical robotics. Path planning & controls for autonomous systems.
+- Machine Vision, Path planning & controls for autonomous systems.
 - Hungry for collaborations on anything under the sun. 
 - I'll get back to this line, later.😬
 
