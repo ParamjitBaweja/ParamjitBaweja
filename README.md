@@ -6,9 +6,9 @@
 
 
 - Interests: Science, Tech, DIY. 
-- I have an unrealistic dream to become a full-stack roboticist.😌
+- I have an unrealistic dream to become a full-stack roboticist building end-to-end robotic systems.😌
 - Biomedical robotics. Path planning & controls for autonomous systems.
-- Hungry for collaborations on anything under the sun. (ML & AI preferred)
+- Hungry for collaborations on anything under the sun. 
 - I'll get back to this line, later.😬
 
 
@@ -32,19 +32,17 @@ Here are some ideas to get you started:
 
 ### Learn more about me at:
 
-[<img align="left" alt="Paramjit Singh Baweja | LinkedIn" width="30px" src="https://github.com/saniikakulkarni/saniikakulkarni/blob/main/linkedin.png" />][linkedin]
+https://www.linkedin.com/in/paramjitbaweja
 
-[linkedin]: https://www.linkedin.com/in/paramjitbaweja
-
-or:    https://www.linkedin.com/in/paramjitbaweja
+https://www.cs.cmu.edu/~paramjitbaweja/
 
 
-<!--### Github Status
+### Github Status
 
 <p align="center">
     <a href="https://github.com/ParamjitBaweja">
-    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ParamjitBaweja&count_private=true&show_icons=true&hide_title=true"/>
+<!--     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ParamjitBaweja&count_private=true&show_icons=true&hide_title=true"/> -->
     <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamjitBaweja&langs_count=6&layout=compact"/>
     </a>
-</p>-->
+</p>
 
